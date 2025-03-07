@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on [CMS](https://github.com/saubgayavishwanthi/ShailiManamperi-CMS---All-Payments.git)
+- 🔭 I’m currently working on [Car Rental Websie](https://github.com/saubgayavishwanthi/Car-Renatal-Website.git)
 
-- 🌱 I’m currently learning **React js ,Node js,wordpress**
+- 🌱 I’m currently learning **React js ,Node js,MERN Stack**
 
-- 💬 Ask me about **Front-End development,Laravel**
+- 💬 Ask me about **Front-End development,Backend development**
 
 - 📫 How to reach me **vishubaghya@gmail.com**
 
